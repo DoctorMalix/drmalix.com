@@ -20,7 +20,7 @@ export default function Contact() {
 
 At HomeoPathy Haven, we have nurtured a culture of compassion and expertise, where each member of our team is committed to your well-being. Our journey is marked by years of studying, practicing, and refining our skills in the field of homeopathy. We take pride in staying updated with the latest advancements and research in the realm of natural healing to provide you with the best care possible.
 {/* <p> &ensp; &ensp;</p> */}
-Our purpose goes beyond merely offering remedies; it's about building a supportive and caring community that empowers individuals to take charge of their health and embrace a holistic lifestyle. We strive to foster a deep sense of trust and transparency in our relationships with our clients, ensuring that you feel heard, understood, and respected throughout your healing journey.
+Our purpose goes beyond merely offering remedies; its about building a supportive and caring community that empowers individuals to take charge of their health and embrace a holistic lifestyle. We strive to foster a deep sense of trust and transparency in our relationships with our clients, ensuring that you feel heard, understood, and respected throughout your healing journey.
 {/* <p> &ensp; &ensp;</p> */}
 At HomeoPathy Haven, we are united by a shared vision of promoting well-being, and we invite you to be a part of our story as we continue to touch lives and make a positive difference in the world of natural health.
 
