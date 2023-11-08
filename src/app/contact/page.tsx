@@ -25,8 +25,8 @@ export default function Contact() {
       E-Mail: DoctorMalix@gmail.com
  </p>   
  <div className="grid__item grid__item--tablet-up-half grid__item--tablet-up-pull-half join-img">
-      <img className="image join-img__back" sizes="100vw" srcSet="https://cdn.shopify.com/shopifycloud/brochure/assets/affiliates/join-image2-small-446838050caf9a8bb8da6a75224726bedce310347e19eb6cdf2177fca08ed059.jpg 1x, https://cdn.shopify.com/shopifycloud/brochure/assets/affiliates/join-image2-large-4b03f705553818cc0b3c08f75328b22324cdaabe6907e1a66587ebbf2dfcfb34.jpg?quality=50 2x" alt="" />
-      <img className="image join-img__front" sizes="100vw" srcSet="https://cdn.shopify.com/shopifycloud/brochure/assets/affiliates/join-image1-small-a5784d1e1a7ccca3a4908b71859fff0d2c201d9118094bc1b4bcb24454914ec1.jpg 1x, https://cdn.shopify.com/shopifycloud/brochure/assets/affiliates/join-image1-large-373a94ccae71c3de5facdcfbec77ddd1e1aa2aed9c1c4d731c4a50522362a818.jpg?quality=50 2x" alt="" />
+      <Image className="image join-img__back" sizes="100vw" srcSet="https://cdn.shopify.com/shopifycloud/brochure/assets/affiliates/join-image2-small-446838050caf9a8bb8da6a75224726bedce310347e19eb6cdf2177fca08ed059.jpg 1x, https://cdn.shopify.com/shopifycloud/brochure/assets/affiliates/join-image2-large-4b03f705553818cc0b3c08f75328b22324cdaabe6907e1a66587ebbf2dfcfb34.jpg?quality=50 2x" alt="" />
+      <Image className="image join-img__front" sizes="100vw" srcSet="https://cdn.shopify.com/shopifycloud/brochure/assets/affiliates/join-image1-small-a5784d1e1a7ccca3a4908b71859fff0d2c201d9118094bc1b4bcb24454914ec1.jpg 1x, https://cdn.shopify.com/shopifycloud/brochure/assets/affiliates/join-image1-large-373a94ccae71c3de5facdcfbec77ddd1e1aa2aed9c1c4d731c4a50522362a818.jpg?quality=50 2x" alt="" />
 </div>
     </div>
   )
