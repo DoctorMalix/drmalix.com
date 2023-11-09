@@ -54,7 +54,7 @@ export default function RootLayout({
 {/* Buttons - Menue -End */}
         
 <Image className="max-w-xl h-auto float-right mx-auto rounded-full shadow-2xl dark:shadow-green-800"
-          src="/image-home/header2.jpg" // Route of the image file
+          src="/image-home/header2.jpg" //. Route of the image file
           height={50} // Desired size with correct aspect ratio
           width={1200} // Desired size with correct aspect ratio
           alt="Homeo"
