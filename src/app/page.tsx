@@ -11,7 +11,12 @@ export default function Home() {
     <div>  
       </div>
 
-      
+      <Image className="max-w-xl h-auto float-right mx-auto rounded-full shadow-2xl dark:shadow-green-800"
+          src="/image-home/header2.jpg" //. Route of the image file
+          height={50} // Desired size with correct aspect ratio
+          width={1200} // Desired size with correct aspect ratio
+          alt="Homeo"
+        />   
 
 
 <p className="mb-3 text-gray-500 dark:text-gray-400 first-line:uppercase first-line:tracking-widest first-letter:text-7xl first-letter:font-bold first-letter:text-gray-900 dark:first-letter:text-gray-100 first-letter:mr-3 first-letter:float-left">
